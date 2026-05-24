@@ -237,6 +237,9 @@ Current status:
 - active development
 - conceptual framework + experimental implementation
 
+# App Link
+
+https://biological-ml-advisor.netlify.app/
 
 # Author
 
